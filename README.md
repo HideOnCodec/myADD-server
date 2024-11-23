@@ -5,6 +5,7 @@
 - Git, Github, Notion
 
 ## 2. 서비스 소개
+![image](https://github.com/user-attachments/assets/ad025a13-e12f-4706-9d71-d3b7ac334893)
 
 **OTT 플랫폼의** **다양한 컨텐츠의 감상평을 기록하는 IOS 어플 서비스**입니다.
 - **앱스토어 배포** : https://apps.apple.com/kr/app/myadd/id6465080857
